@@ -16,7 +16,7 @@
 
 ## :dart: About ##
 
-基于LayUi兼容IE的admin框架模板
+基于LayUi兼容IE8的admin框架模板
 
 
 ## :white_check_mark: Requirements ##
