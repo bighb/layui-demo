@@ -32,8 +32,6 @@ $ git clone https://github.com/bighb/layui-demo
 # Access
 $ cd layui-demo
 
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
